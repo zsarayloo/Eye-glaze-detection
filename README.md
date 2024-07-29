@@ -48,8 +48,7 @@ You can install the required Python libraries using pip:
 ## Folder Structure
 - `matlab/`: Contains the MATLAB code for the project.
 - `python/`: Contains the Python code for the project, including `eye_gaze_detection.py`.
-- `Result/`: Contains the results (sample videos)
-- `Dataset/`: Contains the dataset 
+
 
 ## Particle Filter Parameters
 - `NUM_PARTICLES`: Number of particles used in the particle filter.
